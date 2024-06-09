@@ -1,1 +1,1 @@
-emqx/emqx:5.4.0 registry.cn-hangzhou.aliyuncs.com/hjf3009/home-assistant:2024.6-arm64
+emqx/emqx:5.4.0 registry.cn-hangzhou.aliyuncs.com/hjf3009/emqx:5.4.0-arm64
